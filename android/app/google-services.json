@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75756099714",
+    "firebase_url": "https://flowflex-37f3d-default-rtdb.firebaseio.com",
+    "project_id": "flowflex-37f3d",
+    "storage_bucket": "flowflex-37f3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75756099714:android:b8314b962bc96d874f7c9b",
+        "android_client_info": {
+          "package_name": "com.example.flowflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75756099714-mt2kh90b9n25ig7tdgmh6jvgs6i36aks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5KNErj1eBL2e0ZWZl4K6nf_VRP0siIoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75756099714-mt2kh90b9n25ig7tdgmh6jvgs6i36aks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

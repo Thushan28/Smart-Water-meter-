@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project_id">flowflex-75430</string>
+    <string name="google_app_id">1:607772064062:android:d1e82a1e678205f9c9546f</string>
+    <string name="google_api_key">AIzaSyDPSzHew3opyU1tExuSt0hoyV-2NkeUoDI</string>
+    <string name="storage_bucket">flowflex-75430.firebasestorage.app</string>
+    <string name="gcm_defaultSenderId">607772064062</string>
+</resources>
